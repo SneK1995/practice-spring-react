@@ -1,0 +1,5 @@
+/practice-react-app/node_modules
+/target
+.project
+.settings/
+.classpath
