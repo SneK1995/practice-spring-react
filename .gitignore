@@ -1,4 +1,4 @@
-/react-src/node_modules
+/react-src/node_modules/
 /target
 .project
 .settings/
