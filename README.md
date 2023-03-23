@@ -12,8 +12,11 @@ MySQL (Not included)-
 import the practicedb.sql file in mysql.
 
 React-
-Go to the folder practice-react-app and run the following commands-
-1. npm install
-2. npm start
+Go to the folder react-src and run the "npm install".
 
-After project setup, run the spring boot app, and hit "http://localhost:3000/" in any browser.
+Execution steps-
+
+After the project setup, do the following-
+1. Run the spring boot application.
+2. Open react-src folder in terminal(or cmd for Windows) and run the command "npm install".
+3. Hit "http://localhost:3000/" on any browser.

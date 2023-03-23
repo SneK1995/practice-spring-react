@@ -1,5 +1,6 @@
-/practice-react-app/node_modules
+/react-src/node_modules
 /target
 .project
 .settings/
 .classpath
+package-lock.json
