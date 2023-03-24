@@ -10,6 +10,7 @@ Import the maven project on any IDE and install the dependencies
 
 MySQL (Not included)-
 import the practicedb.sql file in mysql.
+Change the mysql username and password with your respective credentials in application.properties file.
 
 React-
 Go to the folder react-src and run the "npm install".
